@@ -78,10 +78,28 @@ Make sure to deploy the output of `npm run build`
 │   └── server/    # Server-side code
 ```
 
-## Styling
+# Procédé de création de l'app crud avec react router V7
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+<!-- Ressource de code  -->
 
----
+(https://www.youtube.com/watch?v=waI5CDisiuM&t=226s&ab_channel=PedroTech)
+(https://github.com/machadop1407/React-Router-V7-CRUD-App)
 
-Built with ❤️ using React Router.
+<!-- 1er étape  -->
+
+Initialiser le projet
+
+[documentation de tailwindCSS (https://tailwindcss.com/docs/installation/framework-guides/react-router)]
+
+<!-- 2ème étape  -->
+
+Installation de supabase
+[voir la doc sur (https://supabase.com/)]
+
+<!-- 3ème faire les routes  -->
+
+faire les routes
+detruire le "le fichier home du dossier routes" et le dossier welcome
+Créer deux pages et faire la navabar dans le fichier route.tsx
+
+<!-- 4ème faire la navbar dans le fichier root.tsx directement  -->
